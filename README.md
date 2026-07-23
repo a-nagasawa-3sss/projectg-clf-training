@@ -1,4 +1,6 @@
 # AWS Certified Cloud Practitioner（CLF-C02）学習教材
+## GithubPages URL
+[https://a-nagasawa-3sss.github.io/projectg-clf-training/publish/](https://a-nagasawa-3sss.github.io/projectg-clf-training/publish/)
 
 ## はじめに
 
